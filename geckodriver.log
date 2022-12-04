@@ -1,0 +1,420 @@
+1670098563977	geckodriver	INFO	Listening on 127.0.0.1:62928
+1670098566975	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilemGUBiC"
+1670098567548	Marionette	INFO	Marionette enabled
+1670098567554	Marionette	INFO	Listening on port 62938
+Read port: 62938
+WebDriver BiDi listening on ws://127.0.0.1:62929
+1670098567673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilemGUBiC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62929/devtools/browser/f27bc114-fdf6-4b15-b586-dd0d92e10424
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670098588627	Marionette	INFO	Stopped listening on port 62938
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098599397	geckodriver	INFO	Listening on 127.0.0.1:63048
+1670098602398	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile811c9m"
+1670098602804	Marionette	INFO	Marionette enabled
+1670098602808	Marionette	INFO	Listening on port 63060
+Read port: 63060
+WebDriver BiDi listening on ws://127.0.0.1:63049
+1670098602891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile811c9m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63049/devtools/browser/37038421-6f19-499c-8ff5-f9a0eaf358cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670098617143	Marionette	INFO	Stopped listening on port 63060
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098626070	geckodriver	INFO	Listening on 127.0.0.1:63169
+1670098629072	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilem00757"
+1670098629476	Marionette	INFO	Marionette enabled
+1670098629480	Marionette	INFO	Listening on port 63180
+WebDriver BiDi listening on ws://127.0.0.1:63170
+Read port: 63180
+1670098629692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilem00757\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63170/devtools/browser/d244a674-87ae-4af2-a003-accb69284037
+1670098647682	Marionette	INFO	Stopped listening on port 63180
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Invalid port. Exiting...
+1670098712590	geckodriver	INFO	Listening on 127.0.0.1:63354
+1670098715592	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilexQNJl5"
+1670098715997	Marionette	INFO	Marionette enabled
+1670098716001	Marionette	INFO	Listening on port 63365
+WebDriver BiDi listening on ws://127.0.0.1:63355
+Read port: 63365
+1670098716215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilexQNJl5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63355/devtools/browser/9c8c2dee-aa66-4a12-92aa-845cb358ac05
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670098725836	Marionette	INFO	Stopped listening on port 63365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098733603	geckodriver	INFO	Listening on 127.0.0.1:63485
+1670098736605	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileN47kWe"
+1670098736890	Marionette	INFO	Marionette enabled
+1670098736894	Marionette	INFO	Listening on port 63496
+Read port: 63496
+WebDriver BiDi listening on ws://127.0.0.1:63486
+1670098736976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileN47kWe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63486/devtools/browser/4d06692a-1c17-44a8-a3d2-dc549ed39bfe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670098747233	Marionette	INFO	Stopped listening on port 63496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098758004	geckodriver	INFO	Listening on 127.0.0.1:63622
+1670098761006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofiletXn1Q4"
+1670098761327	Marionette	INFO	Marionette enabled
+1670098761330	Marionette	INFO	Listening on port 63633
+WebDriver BiDi listening on ws://127.0.0.1:63623
+Read port: 63633
+1670098761537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofiletXn1Q4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63623/devtools/browser/03039725-62a9-4700-ac79-838e7ff740c8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670098778995	Marionette	INFO	Stopped listening on port 63633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098785289	geckodriver	INFO	Listening on 127.0.0.1:63762
+1670098788291	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilecz4js9"
+1670098788605	Marionette	INFO	Marionette enabled
+1670098788609	Marionette	INFO	Listening on port 63772
+WebDriver BiDi listening on ws://127.0.0.1:63763
+Read port: 63772
+1670098788818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilecz4js9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63763/devtools/browser/2977dd2a-2b38-4646-a813-c96960fa6387
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670098819335	Marionette	INFO	Stopped listening on port 63772
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670098988456	geckodriver	INFO	Listening on 127.0.0.1:64058
+1670098991456	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileUqyZQE"
+1670098991911	Marionette	INFO	Marionette enabled
+1670098991916	Marionette	INFO	Listening on port 64069
+Read port: 64069
+WebDriver BiDi listening on ws://127.0.0.1:64059
+1670098992000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileUqyZQE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64059/devtools/browser/4c6ffa14-1298-4702-aba6-1a6d61d14ae1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670099011949	Marionette	INFO	Stopped listening on port 64069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670099219058	geckodriver	INFO	Listening on 127.0.0.1:64619
+1670099222051	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile1RXOs0"
+1670099222585	Marionette	INFO	Marionette enabled
+1670099222591	Marionette	INFO	Listening on port 64634
+Read port: 64634
+WebDriver BiDi listening on ws://127.0.0.1:64620
+1670099222717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile1RXOs0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64620/devtools/browser/66370dc7-cf39-4c3c-ab03-02b1db92aa5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670099257550	Marionette	INFO	Stopped listening on port 64634
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670099262992	geckodriver	INFO	Listening on 127.0.0.1:64805
+1670099265997	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileBMJ6dg"
+1670099266316	Marionette	INFO	Marionette enabled
+1670099266320	Marionette	INFO	Listening on port 64818
+WebDriver BiDi listening on ws://127.0.0.1:64806
+Read port: 64818
+1670099266536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileBMJ6dg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64806/devtools/browser/e425c73a-4bff-44b0-9df8-6e8d5ac80cac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670099300730	Marionette	INFO	Stopped listening on port 64818
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670099408872	geckodriver	INFO	Listening on 127.0.0.1:65063
+1670099411873	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilecAFxDt"
+1670099412192	Marionette	INFO	Marionette enabled
+1670099412196	Marionette	INFO	Listening on port 65075
+WebDriver BiDi listening on ws://127.0.0.1:65064
+Read port: 65075
+1670099412406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilecAFxDt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65064/devtools/browser/a9a2b983-af95-4d4e-acd5-7b4e7a0a397b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670099463672	Marionette	INFO	Stopped listening on port 65075
+1670099474701	geckodriver	INFO	Listening on 127.0.0.1:65292
+1670099477697	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileHJLGcQ"
+1670099478279	Marionette	INFO	Marionette enabled
+1670099478283	Marionette	INFO	Listening on port 65311
+Read port: 65311
+WebDriver BiDi listening on ws://127.0.0.1:65293
+1670099478389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileHJLGcQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65293/devtools/browser/31b92803-5598-49a7-9bb1-8ac823322198
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/3 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/4 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/5 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670099633061	Marionette	INFO	Stopped listening on port 65311
+[Parent 6888, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670140173205	geckodriver	INFO	Listening on 127.0.0.1:49784
+1670140176201	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileOkpsOg"
+1670140176528	Marionette	INFO	Marionette enabled
+1670140176533	Marionette	INFO	Listening on port 49795
+Read port: 49795
+WebDriver BiDi listening on ws://127.0.0.1:49785
+1670140176656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileOkpsOg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49785/devtools/browser/2d20c67f-56da-4354-a01e-fe058cef4ead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670140202120	Marionette	INFO	Stopped listening on port 49795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670141832542	geckodriver	INFO	Listening on 127.0.0.1:51837
+1670141835531	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51838" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileCjNybI"
+1670141835985	Marionette	INFO	Marionette enabled
+1670141835990	Marionette	INFO	Listening on port 51848
+Read port: 51848
+WebDriver BiDi listening on ws://127.0.0.1:51838
+1670141836110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileCjNybI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51838/devtools/browser/8d7fb3ec-a692-4c53-be49-bfbbbf3d7dd7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670141870700	Marionette	INFO	Stopped listening on port 51848
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670142184185	geckodriver	INFO	Listening on 127.0.0.1:52404
+1670142187186	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileoiigs8"
+1670142187503	Marionette	INFO	Marionette enabled
+1670142187506	Marionette	INFO	Listening on port 52415
+WebDriver BiDi listening on ws://127.0.0.1:52405
+Read port: 52415
+1670142187716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileoiigs8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52405/devtools/browser/cb247e22-88cd-4323-8bb4-16afd5334275
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:363:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:363:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+JavaScript error: resource://devtools/server/actors/inspector/event-collector.js, line 267: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2353))
+console.warn: "Listener for event 'frame' did not return a promise."
+1670142402847	geckodriver	INFO	Listening on 127.0.0.1:53185
+1670142405855	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53186" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileaYMMbS"
+1670142406426	Marionette	INFO	Marionette enabled
+1670142406433	Marionette	INFO	Listening on port 53199
+Read port: 53199
+WebDriver BiDi listening on ws://127.0.0.1:53186
+1670142406555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileaYMMbS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53186/devtools/browser/e0bce703-feef-4f15-b559-ae4e8b86406a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670145898073	Marionette	INFO	Stopped listening on port 53199
+ port 53382
+WebDriver BiDi listening on ws://127.0.0.1:53369
+Read port: 53382
+1670142462817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilebQkfB2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53369/devtools/browser/307e87f3-d6ef-4041-836c-112b42f59af6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670142531847	geckodriver	INFO	Listening on 127.0.0.1:53559
+1670142534847	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilenVcteG"
+1670142535213	Marionette	INFO	Marionette enabled
+1670142535217	Marionette	INFO	Listening on port 53573
+Read port: 53573
+WebDriver BiDi listening on ws://127.0.0.1:53560
+1670142535301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilenVcteG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53560/devtools/browser/14087581-2cfb-408a-a666-7d7f1ecfd71a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670142555107	Marionette	INFO	Stopped listening on port 53573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670142619092	geckodriver	INFO	Listening on 127.0.0.1:53761
+1670142622103	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile9TTKPF"
+1670142622430	Marionette	INFO	Marionette enabled
+1670142622433	Marionette	INFO	Listening on port 53776
+WebDriver BiDi listening on ws://127.0.0.1:53762
+Read port: 53776
+1670142622647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile9TTKPF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53762/devtools/browser/f517c42c-5ecb-4a5d-84b1-96493b77b5a1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670142633134	Marionette	INFO	Stopped listening on port 53776
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670142658998	geckodriver	INFO	Listening on 127.0.0.1:54150
+1670142662007	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilecwBX2d"
+1670142662317	Marionette	INFO	Marionette enabled
+1670142662321	Marionette	INFO	Listening on port 54162
+WebDriver BiDi listening on ws://127.0.0.1:54151
+Read port: 54162
+1670142662542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilecwBX2d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54151/devtools/browser/86625833-0da5-4467-a77c-4e4e5a3f2222
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+1670142675646	Marionette	INFO	Stopped listening on port 54162
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670142778165	geckodriver	INFO	Listening on 127.0.0.1:54383
+1670142781166	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileP4svdQ"
+1670142781444	Marionette	INFO	Marionette enabled
+1670142781448	Marionette	INFO	Listening on port 54395
+Read port: 54395
+WebDriver BiDi listening on ws://127.0.0.1:54384
+1670142781533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileP4svdQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54384/devtools/browser/7cf353b4-8b87-43b9-abe1-3d88b7339dfb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670142824425	Marionette	INFO	Stopped listening on port 54395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670143216427	geckodriver	INFO	Listening on 127.0.0.1:54949
+1670143219426	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileIs1U9q"
+1670143219794	Marionette	INFO	Marionette enabled
+1670143219798	Marionette	INFO	Listening on port 54961
+Read port: 54961
+WebDriver BiDi listening on ws://127.0.0.1:54950
+1670143219883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileIs1U9q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54950/devtools/browser/2605c1ca-97f0-4df6-9ef5-d4087fe67c92
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670143253893	Marionette	INFO	Stopped listening on port 54961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670144815489	geckodriver	INFO	Listening on 127.0.0.1:57527
+1670144818500	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileXySG5c"
+1670144819058	Marionette	INFO	Marionette enabled
+1670144819062	Marionette	INFO	Listening on port 57539
+Read port: 57539
+WebDriver BiDi listening on ws://127.0.0.1:57528
+1670144819190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofileXySG5c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57528/devtools/browser/458af5de-44b6-4d33-b18b-789dbcf32d72
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://assets.htmlacademy.ru/js/general.v249.js, line 2: ChunkLoadError: Loading chunk 21 failed.
+(error: https://assets.htmlacademy.ru/js/0b235c.js)
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/2 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/3 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670145899188	Marionette	INFO	Stopped listening on port 57539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e" "--remote-debugging-port" "57843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilebMB75d"
+1670144970339	Marionette	INFO	Marionette enabled
+1670144970344	Marionette	INFO	Listening on port 57854
+Read port: 57854
+WebDriver BiDi listening on ws://127.0.0.1:57843
+1670144970447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilebMB75d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57843/devtools/browser/5664031f-0160-418e-8bb7-6d8728ef8374
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/4 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/5 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/6 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670145119961	Marionette	INFO	Stopped listening on port 57854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670145130091	geckodriver	INFO	Listening on 127.0.0.1:58372
+1670145133092	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile0tzfWe"
+1670145133457	Marionette	INFO	Marionette enabled
+1670145133461	Marionette	INFO	Listening on port 58382
+Read port: 58382
+WebDriver BiDi listening on ws://127.0.0.1:58373
+1670145133545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile0tzfWe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58373/devtools/browser/4c306603-c731-47f0-ab8f-04570e255d71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/7 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/8 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670145231611	Marionette	INFO	Stopped listening on port 58382
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670145238459	geckodriver	INFO	Listening on 127.0.0.1:58587
+1670145241458	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58588" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilebcoQZ2"
+1670145241804	Marionette	INFO	Marionette enabled
+1670145241809	Marionette	INFO	Listening on port 58597
+Read port: 58597
+WebDriver BiDi listening on ws://127.0.0.1:58588
+1670145241909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofilebcoQZ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58588/devtools/browser/6e456ee0-ca4f-41e8-b608-710dbfb021a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/10 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/11 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/12 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/13 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/14 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/15 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/16 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/17 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/18 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/19 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670145638249	Marionette	INFO	Stopped listening on port 58597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670145672804	geckodriver	INFO	Listening on 127.0.0.1:59194
+1670145675805	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile79CCPo"
+1670145676295	Marionette	INFO	Marionette enabled
+1670145676299	Marionette	INFO	Listening on port 59206
+Read port: 59206
+WebDriver BiDi listening on ws://127.0.0.1:59195
+1670145676384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JenIKs\\AppData\\Local\\Temp\\rust_mozprofile79CCPo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59195/devtools/browser/60ac1858-a83e-452f-9d56-45d2962fb8d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://htmlacademy.ru."
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/21 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/22 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670145738163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/23 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/24 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/25 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+JavaScript error: https://up.htmlacademy.ru/univer-html1/1/module/7/item/10/26 line 296 > injectedScript, line 1: ReferenceError: amplitude is not defined
+1670145905557	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
